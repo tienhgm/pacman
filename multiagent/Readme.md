@@ -4,4 +4,4 @@ Câu 2: Dựa vào thuật toán minimax đã học vì có nhiều hơn 1 con m
 
 Câu 3: Giống với câu 2 nhưng khác là thêm 2 biến alpha va beta để cho thuật toán nhanh hơn
 
-Câu 4: Khác vs 2 câu trên là các con ma đi ngẫu nhiên nên hàm sẽ trả về trung bình của các node con của nó 
+Câu 4: Khác với 2 câu trên là các con ma đi ngẫu nhiên nên hàm sẽ trả về trung bình của các node con của nó 
